@@ -2,7 +2,7 @@
   "name": "movie-gold-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diablolaw.github.io/Diablo-Movie",
+  "homepage":"https://diablolaw.github.io/Diablo-Movie",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
