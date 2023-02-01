@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.288a620e.css",
-    "main.js": "/static/js/main.b7be5f44.js",
-    "index.html": "/index.html",
-    "main.288a620e.css.map": "/static/css/main.288a620e.css.map",
-    "main.b7be5f44.js.map": "/static/js/main.b7be5f44.js.map"
+    "main.css": "/Diablo-Movie/static/css/main.288a620e.css",
+    "main.js": "/Diablo-Movie/static/js/main.b7be5f44.js",
+    "index.html": "/Diablo-Movie/index.html",
+    "main.288a620e.css.map": "/Diablo-Movie/static/css/main.288a620e.css.map",
+    "main.b7be5f44.js.map": "/Diablo-Movie/static/js/main.b7be5f44.js.map"
   },
   "entrypoints": [
     "static/css/main.288a620e.css",
